@@ -23,14 +23,7 @@ Verification Features:
 * Reset functionality checking
 * Scoreboard comparison (Expected vs Actual)
 * Functional and code coverage tracking
-* Error reporting using UVM messaging
 
-How to Run:
-
-1. Compile the files using QuestaSim
-2. Load the top module
-3. Run the simulation
-4. View waveforms and UVM report log for verification results
 
 Tools Used:
 
