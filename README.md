@@ -33,6 +33,8 @@ This project focuses on verifying a single-port memory design (16x32) using a UV
 
 ## Memory Interface & Functionality
 
+![Waveform](memory.png)
+
 ### Input Ports:
 
 | Port Name | Size    | Description                                    |
